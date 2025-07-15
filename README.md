@@ -24,3 +24,29 @@ This project aims to analyze HR employee data and predict attrition (whether an 
 - Data Cleaning and Preprocessing (Phase 2)
 - Model Building
 - Dashboard in Power BI
+
+
+
+---
+
+## 🚀 Phase 2: Predictive Modeling
+
+### 🔸 Objective:
+Build a classification model to predict employee attrition using logistic regression.
+
+### 🔸 Tools Used:
+- Python
+- Pandas
+- Seaborn
+- Scikit-learn
+- Google Colab
+
+### 🔸 Key Steps:
+- Data cleaning and encoding
+- Feature selection
+- Logistic regression model training
+- Evaluation using confusion matrix and accuracy score
+
+### 🔸 Outcome:
+Model built with accuracy score and insights that can help HR teams reduce attrition.
+
