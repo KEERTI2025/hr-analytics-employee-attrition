@@ -50,3 +50,27 @@ Build a classification model to predict employee attrition using logistic regres
 ### 🔸 Outcome:
 Model built with accuracy score and insights that can help HR teams reduce attrition.
 
+
+
+---
+
+## 📊 Phase 3 – Dashboard Design (Power BI)
+
+In this phase, I used Power BI to create an interactive dashboard to visualize important insights from the HR dataset. The goal was to identify patterns and trends related to employee attrition.
+
+### 🔧 Tools Used:
+- Power BI
+
+### 📈 Charts Created:
+1. **Count of Attrition by Age** – Displays how age affects attrition.
+2. **Count of Attrition by Department** – Shows attrition trends across departments.
+3. **Attrition by Business Travel** – Visualizes how frequent travel correlates with attrition.
+4. **Attrition by Job Role** – Analyzes which roles have higher attrition.
+5. **Attrition by Gender** – Shows if gender has an impact on leaving rate.
+6. **Attrition by Marital Status** – Correlates attrition with personal life factors.
+
+### 📌 Output:
+- Power BI `.pbix` file uploaded in the repository under Phase 3.
+
+---
+
